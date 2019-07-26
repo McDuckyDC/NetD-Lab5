@@ -1,0 +1,12 @@
+C:\Users\shotg\Desktop\Assignments\Lab5\Lab 5 - Text Editor\obj\Debug\Lab 5 - Text Editor.vbproj.GenerateResource.cache
+C:\Users\shotg\Desktop\Assignments\Lab5\Lab 5 - Text Editor\obj\Debug\Lab 5 - Text Editor.vbproj.CoreCompileInputs.cache
+C:\Users\shotg\Desktop\Assignments\Lab5\Lab 5 - Text Editor\obj\Debug\Lab 5 - Text Editor.vbprojAssemblyReference.cache
+C:\Users\shotg\Desktop\Assignments\Lab5\Lab 5 - Text Editor\obj\Debug\Lab_5___Text_Editor.frmTextEditor.resources
+C:\Users\shotg\Desktop\Assignments\Lab5\Lab 5 - Text Editor\obj\Debug\Lab_5___Text_Editor.Resources.resources
+C:\Users\shotg\Desktop\Assignments\Lab5\Lab 5 - Text Editor\bin\Debug\Lab 5 - Text Editor.exe.config
+C:\Users\shotg\Desktop\Assignments\Lab5\Lab 5 - Text Editor\bin\Debug\Lab 5 - Text Editor.exe
+C:\Users\shotg\Desktop\Assignments\Lab5\Lab 5 - Text Editor\bin\Debug\Lab 5 - Text Editor.pdb
+C:\Users\shotg\Desktop\Assignments\Lab5\Lab 5 - Text Editor\bin\Debug\Lab 5 - Text Editor.xml
+C:\Users\shotg\Desktop\Assignments\Lab5\Lab 5 - Text Editor\obj\Debug\Lab 5 - Text Editor.exe
+C:\Users\shotg\Desktop\Assignments\Lab5\Lab 5 - Text Editor\obj\Debug\Lab 5 - Text Editor.xml
+C:\Users\shotg\Desktop\Assignments\Lab5\Lab 5 - Text Editor\obj\Debug\Lab 5 - Text Editor.pdb
